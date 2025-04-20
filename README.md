@@ -1,4 +1,4 @@
 # demo
 this is my first project
 <br>
-Author : vineet gupta
+Author : vineet gupta (abc organization)
